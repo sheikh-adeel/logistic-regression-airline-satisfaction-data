@@ -76,7 +76,7 @@ The dataset contains:
 
 ## **Recommendations**
 - Customers who rated in-flight entertainment highly were more likely to be satisfied. Improving in-flight entertainment should lead to better customer satisfaction.
-- The model is 69.8% accurate. This is an improvement over the dataset’s customer satisfaction rate of 43.4%.
+- The model is 69.8% accurate. This is an improvement over the dataset’s customer satisfaction rate of 43.5%.
 - The success of the model suggests that the airline should invest more in model developement to examine if adding more independent variables leads to better results.
 - Building this model could not only be useful in predicting whether or not a customer would be satisfied but also lead to a better understanding of what independent variables lead to happier customers.
 
